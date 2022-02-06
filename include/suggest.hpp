@@ -1,6 +1,4 @@
-//
-// Created by maks on 29.01.2022.
-//
+// Copyright 2021 <geraldy12319@gamil.com>
 
 #ifndef INCLUDE_SUGGEST_HPP_
 #define INCLUDE_SUGGEST_HPP_
